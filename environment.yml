@@ -1,0 +1,11 @@
+name: ia2
+channels:
+- conda-forge
+- defaults
+- r
+dependencies:
+- python=3.11.14
+- pandas=2.3.3
+- numpy=2.3.5
+- conda-lock=3.0.4
+prefix: /home/teem/miniforge3/envs/ia2
